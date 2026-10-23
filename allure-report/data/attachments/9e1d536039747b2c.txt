@@ -1,7 +1,0 @@
-Executing TestCase: {
-  testCaseId: 'TC_01',
-  url: 'https://app.stage.leadstacts.com/login',
-  email: 'admin@leadstacts.com',
-  password: '11111aA@'
-}
-Expected text verified on page: Manage Companies
