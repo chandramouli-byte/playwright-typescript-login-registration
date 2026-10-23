@@ -1,8 +1,0 @@
-Executing TestCase: {
-  testCaseId: 'TC_04',
-  url: 'https://app.stage.leadstacts.com/login',
-  email: 'bunnyretailer1@yopmail.com',
-  isPassword: 'Y',
-  password: 'Secure@4567',
-  emailUrl: ''
-}
