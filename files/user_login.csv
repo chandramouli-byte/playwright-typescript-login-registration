@@ -1,0 +1,8 @@
+testCaseId,url,email,isPassword,password,emailUrl
+TC_01,https://app.stage.leadstacts.com/login,admin@leadstacts.com,Y,11111aA@,
+TC_02,https://app.stage.leadstacts.com/login,bunnydma1@yopmail.com,Y,Secure@4567,
+TC_03,https://app.stage.leadstacts.com/login,bunnydma2@yopmail.com,N,,https://www.yopmail.com/
+TC_04,https://app.stage.leadstacts.com/login,bunnyretailer1@yopmail.com,Y,Secure@4567,
+TC_05,https://app.stage.leadstacts.com/login,bunnyretailer2@yopmail.com,N,,https://www.yopmail.com/
+TC_06,https://app.stage.leadstacts.com/login,bunnyapiuser1@yopmail.com,Y,Secure@4567,
+TC_07,https://app.stage.leadstacts.com/login,bunnyapiuser2@yopmail.com,N,,https://www.yopmail.com/

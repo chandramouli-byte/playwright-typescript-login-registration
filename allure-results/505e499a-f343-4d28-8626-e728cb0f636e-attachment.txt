@@ -1,0 +1,10 @@
+Executing TestCase: {
+  testCaseId: 'TC_03',
+  url: 'https://app.stage.leadstacts.com/login',
+  email: 'bunnydma2@yopmail.com',
+  isPassword: 'N',
+  password: '',
+  emailUrl: 'https://www.yopmail.com/'
+}
+✅ Email URL opened: https://www.yopmail.com/
+Expected text verified: Manage Companies

@@ -1,0 +1,25 @@
+CSV Data: {
+  testCaseId: 'TC_01',
+  url: 'https://app.stage.leadstacts.com/login',
+  name: 'Bunny',
+  email: 'bunny@yopmail.com',
+  phone: '9090909090',
+  companyName: "Bunny's Radio",
+  dma: 'Y',
+  retailer: '',
+  apiUser: '',
+  password: 'Y',
+  passwordSet: 'Secure@4567',
+  otp: ''
+}
+Final Data Used: {
+  finalName: 'Bunny',
+  finalEmail: 'bunny+1774252486355@yopmail.com',
+  finalPhone: '9090909995',
+  finalCompany: "Bunny's Radio_1774252486355"
+}
+====================================
+🎉 REGISTERED EMAIL
+====================================
+Email: bunny+1774252486355@yopmail.com
+====================================
