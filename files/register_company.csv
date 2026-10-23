@@ -1,7 +1,0 @@
-testCaseId,url,name,email,phone,companyName,dma,retailer,apiUser,password,passwordSet,otp
-TC_01,https://app.stage.leadstacts.com/login,Bunny,bunnydma1@yopmail.com,9090909090,Bunny's Radio,Y,,,Y,Secure@4567,
-TC_02,https://app.stage.leadstacts.com/login,Bunny,bunnydma2@yopmail.com,9090909090,Bunny's Radio,Y,,,,,Y
-TC_03,https://app.stage.leadstacts.com/login,Bunny,bunnyretailer1@yopmail.com,9090909090,Bunny's Radio,,Y,,Y,Secure@4567,
-TC_04,https://app.stage.leadstacts.com/login,Bunny,bunnyretailer2@yopmail.com,9090909090,Bunny's Radio,,Y,,,,Y
-TC_05,https://app.stage.leadstacts.com/login,Bunny,bunnyapiuser1@yopmail.com,9090909090,Bunny's Radio,,,Y,Y,Secure@4567,
-TC_06,https://app.stage.leadstacts.com/login,Bunny,bunnyapiuser2@yopmail.com,9090909090,Bunny's Radio,,,Y,,,Y
